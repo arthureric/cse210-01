@@ -66,3 +66,6 @@ def next_player(current):
 if __name__ == "__main__":
             
     main()
+
+# In building a tic-tac-toe game to illustrate the value of incremental learning when it comes to software development.
+# The game is to be played between two people: human and computer.
