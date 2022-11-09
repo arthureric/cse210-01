@@ -15,8 +15,8 @@
 <p> +-- __main__.py       (program entry point)</p>
 <p>+-- README.md           (general info)</p>
 
-Required Software
-Python 3.8.0 and above
+<h4>Required Software</h4>
+<p>Python 3.8.0 and above</p>
 
-Author
-Eric Arthur art21005@byui.edu
+<h4>Author</h4>
+<h4>Eric Arthur art21005@byui.edu<h4>
