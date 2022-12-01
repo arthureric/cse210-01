@@ -33,4 +33,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* <h4>Eric Arthur art21005@byui.edu<h4>
+* Eric Arthur art21005@byui.edu
